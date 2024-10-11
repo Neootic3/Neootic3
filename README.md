@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neootic3
+- 👋 Hi, I’m @Neootic3 a Discord Bot dev
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Pycord
 - 💞️ I’m looking for people to Help me!
