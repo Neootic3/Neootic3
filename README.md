@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Neootic3
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Pycord
+- 💞️ I’m looking for people to Help me!
+- 📫 reach to me using my email! cheapsites.buisneesmail@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: cats Sleep 70% of their lives!
