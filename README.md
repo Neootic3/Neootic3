@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neootic3 a Discord Bot dev/ web developper!
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Pycord
+- 🌱 I’m currently learning Pycord and javascript!
 - 💞️ I’m looking for people to Help me!
 - 📫 reach to me using my email! cheapsites.buisneesmail@gmail.com
 - 😄 Pronouns: he/him
