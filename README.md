@@ -2,6 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Pycord and javascript!
 - 💞️ I’m looking for people to Help me!
-- 📫 reach to me using my email! cheapsites.buisneesmail@gmail.com
+- 📫 reach to me by my discord account: neon_gamer365
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: cats Sleep 70% of their lives!
